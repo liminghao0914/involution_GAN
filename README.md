@@ -13,6 +13,9 @@ We thanks to the code from
   - https://github.com/mseitzer/pytorch-fid
   
 ## Report 
-InvolutionGAN.pdf
+paper_33.pdf
+
+## Slides
+slides_33.pdf
 
 
