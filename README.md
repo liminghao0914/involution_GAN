@@ -13,7 +13,6 @@ We thanks to the code from
   - https://github.com/mseitzer/pytorch-fid
   
 ## Report 
-
 InvolutionGAN.pdf
-Slides.pdf
+
 
