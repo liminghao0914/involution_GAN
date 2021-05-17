@@ -11,7 +11,10 @@ We thanks to the code from
   - https://github.com/heykeetae/Self-Attention-GAN
   - https://github.com/ChristophReich1996/Involution
   - https://github.com/mseitzer/pytorch-fid
-  
+
+## Network Structure
+![Example 4x upscaling](images/comparison.png)
+
 ## Report 
 paper_33.pdf
 
