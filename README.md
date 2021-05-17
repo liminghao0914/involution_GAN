@@ -13,7 +13,7 @@ We thanks to the code from
   - https://github.com/mseitzer/pytorch-fid
 
 ## Network Structure
-![Example 4x upscaling](Network_Structure.png)
+![Network_Structure](Network_Structure.png)
 
 ## Report 
 paper_33.pdf
