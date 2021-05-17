@@ -15,6 +15,10 @@ We thanks to the code from
 ## Network Structure
 ![Network_Structure](Network_Structure.png)
 
+## Experiment Result
+![sa_dc_i](sa_dc_i.png)
+![igan_curve](igan_curve.png)
+
 ## Report 
 paper_33.pdf
 
